@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+api.vietqr.io	TRUE	/	FALSE	1999999999	connect.sid	s%3AUPJ-LUQnXrP8eU7CY2rAbF2LD84IVgeF.dPjAU1N%2BdJE0QJpyuwZn4Ng3SnxfWvMqQPu2lNu9ouo
+

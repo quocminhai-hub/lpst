@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+17:42:35	117976/117976	---MCZ	200	added ('OK')	text/html	date:Wed,%2013%20May%202026%2010:42:34%20GMT	https://tkrwqhdjxdl7.swipepages.net/lpsieutoc	C:/My%20Web%20Sites/lpst/tkrwqhdjxdl7.swipepages.net/lpsieutoc.html	(from )
+17:42:36	4581/4581	---MCZ	404	error ('Not%20Found')	text/html	etag:W/%2228b5-19dd2bc5090%22	https://tkrwqhdjxdl7.swipepages.net/robots.txt		(from )
+17:42:37	75122/75122	---M--	200	added ('OK')	image/png	date:Wed,%2013%20May%202026%2010:42:35%20GMT	https://api.vietqr.io/image/970436-0441000625424-3MbCFys.jpg?accountName=PHU%20QUOC%20NAM&amount=688000	C:/My%20Web%20Sites/lpst/api.vietqr.io/image/970436-0441000625424-3MbCFys3f32.png	(from https://tkrwqhdjxdl7.swipepages.net/lpsieutoc)
